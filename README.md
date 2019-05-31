@@ -1,6 +1,5 @@
 FEND Project 3: Classic Frogger Game
-------------------------------------
-------------------------------------
+====================================
 
 I completed this project for Udacity's Front End Web Developer Nanodegree.  The object of the game is to successfully
 navigate the player from the grassy tiles, across the gray tiles, and to the blue tiles on the other side (all while avoiding the 

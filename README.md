@@ -9,12 +9,15 @@ Play Instructions
 -----------------
 
 *Use the arrow keys to navigate the player: up, down, right, and left.
+
 *Avoid the bugs.
+
 *The game is won when the player reaches the blue tiles.
 
 Game Setup
 ----------
 *Download the game files from the repository.
+
 *Open the `index.html` file to play the game.
 
 
